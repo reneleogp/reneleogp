@@ -23,5 +23,5 @@
 <br></br>
 
 ### Statistics:
-[![Yash's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=reneleogp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=YashKapoor1004.YashKapoor1004) -->
+[![Rene's Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=reneleogp&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=reneleogp.reneleogp) -->
