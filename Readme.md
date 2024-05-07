@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rene Gonzalez
 
-### Software Developer, Aspiring Innovator and CS student @ University of Waterloo. 
+### Software Developer, Innovator and CS student @ University of Waterloo. 
 
 - 🔭 Currently learning more about Machine Learning and Cybersecurity
 - 🌱 Interests: Backend Development, Full Stack Development, Cybersecurity, and Machine Learning
