@@ -4,7 +4,7 @@
 
 - 🔭 Currently learning more about Machine Learning and Cybersecurity
 - 🌱 Interests: Backend Development, Full Stack Development, Cybersecurity, and Machine Learning
-- 📫 Feel free to contact me through my [email](mailto:reneleogp0305@gmail.com)
+- 📫 Feel free to contact me through [rene.gonzalez@uwaterloo.ca](mailto:rene.gonzalez@uwaterloo.ca)
 - ⚡ Fun fact: I love to play the guitar
 
 ### Languages and Tools:
