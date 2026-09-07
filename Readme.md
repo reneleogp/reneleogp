@@ -1,7 +1,9 @@
 # Rene Gonzalez
 
 ### I'm a CS student @ University of Waterloo. 
-- 💻 SWE Internships: 2x @ Microsoft Azure, 2x @ Commure & Athelas
+- 💻 SWE Internships:
+  - 2x @ Microsoft Azure
+  - 2x @ Commure & Athelas
 - 📫 Feel free to contact me through [rene.gonzalez@uwaterloo.ca](mailto:rene.gonzalez@uwaterloo.ca)
 - ⚡ Fun fact: I'm a backpacker
 
