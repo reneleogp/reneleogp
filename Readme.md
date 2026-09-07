@@ -1,11 +1,9 @@
-# 👋 Hi, I’m Rene Gonzalez
+# Rene Gonzalez
 
-### Software Developer, Innovator and CS student @ University of Waterloo. 
-
-- 🔭 Currently learning more about Machine Learning and Cybersecurity
-- 🌱 Interests: Backend Development, Full Stack Development, Cybersecurity, and Machine Learning
+### I'm a CS student @ University of Waterloo. 
+- 💻 SWE Internships: 2x @ Microsoft Azure, 2x @ Commure & Athelas
 - 📫 Feel free to contact me through [rene.gonzalez@uwaterloo.ca](mailto:rene.gonzalez@uwaterloo.ca)
-- ⚡ Fun fact: I love to play the guitar
+- ⚡ Fun fact: I'm a backpacker
 
 ### Languages and Tools:
 <img align="left" alt="Typescript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
